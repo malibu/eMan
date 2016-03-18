@@ -1,0 +1,10 @@
+C:\development\eManager\eManager.Core\obj\Debug\eManager.Core.csprojResolveAssemblyReference.cache
+C:\development\eManager\eManager.Core\bin\Debug\eManager.Core.dll
+C:\development\eManager\eManager.Core\bin\Debug\eManager.Core.pdb
+C:\development\eManager\eManager.Core\obj\Debug\eManager.Core.dll
+C:\development\eManager\eManager.Core\obj\Debug\eManager.Core.pdb
+C:\development\eManager\eManager.Core\bin\Debug\eManager.Core.dll.config
+C:\development\eManager\eManager.Core\bin\Debug\EntityFramework.dll
+C:\development\eManager\eManager.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\eManager\eManager.Core\bin\Debug\EntityFramework.xml
+C:\development\eManager\eManager.Core\bin\Debug\EntityFramework.SqlServer.xml
